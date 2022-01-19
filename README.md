@@ -1,1 +1,1 @@
-Preact-HWINFO is a lightweight application originally intended to run on a slow tablet placed inside a gaming computer. The slow sh--ty tablet can now be repurposed and used to display all sorts of info about your computer, using HWinfo use of a 3rd party addon called [PromDapter](https://github.com/kallex/PromDapter). 
+=
